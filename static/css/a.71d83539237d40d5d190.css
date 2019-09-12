@@ -1,0 +1,11 @@
+.component-table {
+  background-color: green;
+  color: white; }
+body {
+  background-color: #f7f7f7; }
+
+div.bg-image {
+  background: url(/images/app_banner.c8eb7e13e6a2684bfa60d56416a07782.jpg) no-repeat bottom/cover;
+  height: 650px;
+  position: relative;
+  min-width: 1200px; }
